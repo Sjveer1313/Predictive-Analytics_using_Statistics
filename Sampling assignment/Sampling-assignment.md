@@ -1,4 +1,4 @@
-            ## Discussion
+Discussion
 
 The results show that different machine learning models respond differently to sampling strategies. 
 Logistic Regression (M1) and Random Forest (M3) achieved their highest accuracy using Sampling2, 
