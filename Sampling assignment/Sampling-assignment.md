@@ -3,6 +3,6 @@ Discussion
 The results show that different machine learning models respond differently to sampling strategies. 
 Logistic Regression (M1) and Random Forest (M3) achieved their highest accuracy using Sampling2, 
 indicating that oversampling is effective for complex and probabilistic models. 
-Decision Tree Classifier (M2) and SVM (M5) performed best with Sampling5, 
+Decision Tree Classifier (M2) and SVM (M5) performed best with Sampling3, 
 while Gaussian Naive Bayes (M4) benefited most from Sampling1. 
 This confirms that no single sampling technique is universally optimal and model–sampling compatibility plays a critical role in performance.
