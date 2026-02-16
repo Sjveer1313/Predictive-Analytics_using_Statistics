@@ -1,2 +1,0 @@
-[console_scripts]
-topsis = topsis_sukhmanpreet_102317112.topsis:main
