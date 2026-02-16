@@ -1,6 +1,10 @@
 # Topsis-Sukhmanpreet-102317112
 
 --- 
+[![PyPI](https://img.shields.io/badge/PyPI-v1.0.3-blue)](https://pypi.org/project/Topsis-Sukhmanpreet-102317112/1.1.0/))
+[![Web Service](https://img.shields.io/badge/Web-App-red)](https://predictive-analyticsusingstatistics-rcut5jyjnzyn2zawxhha5r.streamlit.app/))
+
+---
 
 ## What is TOPSIS?
 
